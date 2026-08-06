@@ -120,17 +120,14 @@ TECHNICAL SKILLS
               <div className="flex items-center gap-4">
                 {/* Photo Thumbnail */}
                 <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border border-blue-500/30 p-1 overflow-hidden shrink-0 shadow-lg">
-                  {photoUrl ? (
-                    <img
-                      src={photoUrl}
-                      alt={personalInfo.fullName}
-                      className="w-full h-full object-cover rounded-xl"
-                    />
-                  ) : (
-                    <div className="w-full h-full rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-600 flex items-center justify-center text-white font-black text-xl">
-                      SJ
-                    </div>
-                  )}
+                  <img
+                    src={photoUrl}
+                    alt={personalInfo.fullName}
+                    className="w-full h-full object-cover rounded-xl"
+                    onError={(e) => {
+                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                    }}
+                  />
                 </div>
 
                 <div>

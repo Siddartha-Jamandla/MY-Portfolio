@@ -51,18 +51,14 @@ export const AboutSection: React.FC = () => {
                 
                 {/* Photo Container */}
                 <div className="w-36 h-36 sm:w-44 sm:h-44 rounded-2xl bg-slate-900 border-2 border-blue-500/40 p-1.5 shadow-2xl overflow-hidden relative group">
-                  {photoUrl ? (
-                    <img
-                      src={photoUrl}
-                      alt={personalInfo.fullName}
-                      className="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-105"
-                    />
-                  ) : (
-                    <div className="w-full h-full rounded-xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-cyan-500 flex flex-col items-center justify-center text-white p-3">
-                      <span className="text-4xl font-black tracking-wider">SJ</span>
-                      <span className="text-xs font-semibold mt-1">Siddartha Jamandla</span>
-                    </div>
-                  )}
+                  <img
+                    src={photoUrl}
+                    alt={personalInfo.fullName}
+                    className="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-105"
+                    onError={(e) => {
+                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                    }}
+                  />
                   <div className="absolute top-3 right-3 w-3.5 h-3.5 bg-emerald-500 rounded-full border-2 border-slate-900 shadow-lg" title="Active AIML Student" />
                 </div>
 

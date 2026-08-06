@@ -224,18 +224,14 @@ export const AdminModal: React.FC<AdminModalProps> = ({ isOpen, onClose }) => {
               <div className="space-y-5">
                 <div className="flex flex-col items-center sm:flex-row gap-5 p-4 rounded-2xl bg-slate-900/80 border border-slate-800">
                   <div className="w-24 h-24 sm:w-28 sm:h-28 rounded-2xl bg-slate-950 border-2 border-blue-500/40 p-1 overflow-hidden shrink-0 shadow-xl flex items-center justify-center relative group">
-                    {photoUrl ? (
-                      <img
-                        src={photoUrl}
-                        alt={personalInfo.fullName}
-                        className="w-full h-full object-cover rounded-xl"
-                      />
-                    ) : (
-                      <div className="w-full h-full rounded-xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-cyan-500 flex flex-col items-center justify-center text-white text-center p-2">
-                        <span className="text-2xl font-black">SJ</span>
-                        <span className="text-[10px] font-medium opacity-90">Siddartha Jamandla</span>
-                      </div>
-                    )}
+                    <img
+                      src={photoUrl}
+                      alt={personalInfo.fullName}
+                      className="w-full h-full object-cover rounded-xl"
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                      }}
+                    />
                   </div>
 
                   <div className="space-y-1.5 text-center sm:text-left flex-1">

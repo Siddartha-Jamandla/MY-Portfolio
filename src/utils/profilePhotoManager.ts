@@ -2,12 +2,13 @@ import { useState, useEffect } from 'react';
 
 export const PROFILE_PHOTO_STORAGE_KEY = 'siddartha_profile_photo';
 
-// Default fallback photo URL if user hasn't uploaded one yet
-export const DEFAULT_PROFILE_PHOTO = 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=800';
+// Default professional developer profile photo displayed for any visitor until customized
+export const DEFAULT_PROFILE_PHOTO = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
 
 export function getStoredProfilePhoto(): string | null {
   try {
-    return localStorage.getItem(PROFILE_PHOTO_STORAGE_KEY);
+    const val = localStorage.getItem(PROFILE_PHOTO_STORAGE_KEY);
+    return val && val.trim().length > 0 ? val.trim() : null;
   } catch (e) {
     return null;
   }
@@ -15,8 +16,8 @@ export function getStoredProfilePhoto(): string | null {
 
 export function setStoredProfilePhoto(photoUrl: string | null): void {
   try {
-    if (photoUrl) {
-      localStorage.setItem(PROFILE_PHOTO_STORAGE_KEY, photoUrl);
+    if (photoUrl && photoUrl.trim().length > 0) {
+      localStorage.setItem(PROFILE_PHOTO_STORAGE_KEY, photoUrl.trim());
     } else {
       localStorage.removeItem(PROFILE_PHOTO_STORAGE_KEY);
     }
@@ -28,11 +29,14 @@ export function setStoredProfilePhoto(photoUrl: string | null): void {
 }
 
 export function useProfilePhoto() {
-  const [photoUrl, setPhotoUrl] = useState<string | null>(() => getStoredProfilePhoto());
+  const [photoUrl, setPhotoUrl] = useState<string>(() => {
+    return getStoredProfilePhoto() || DEFAULT_PROFILE_PHOTO;
+  });
 
   useEffect(() => {
     const handleUpdate = () => {
-      setPhotoUrl(getStoredProfilePhoto());
+      const stored = getStoredProfilePhoto();
+      setPhotoUrl(stored || DEFAULT_PROFILE_PHOTO);
     };
 
     window.addEventListener('siddartha_photo_updated', handleUpdate);
@@ -46,6 +50,8 @@ export function useProfilePhoto() {
 
   return {
     photoUrl,
+    hasCustomPhoto: !!getStoredProfilePhoto(),
     setPhoto: (url: string | null) => setStoredProfilePhoto(url)
   };
 }
+

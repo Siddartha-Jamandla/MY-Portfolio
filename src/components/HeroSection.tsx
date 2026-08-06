@@ -54,13 +54,14 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             <div className="space-y-3">
               <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
                 <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border-2 border-blue-500/40 p-1 shadow-2xl overflow-hidden shrink-0">
-                  {photoUrl ? (
-                    <img src={photoUrl} alt="Siddartha" className="w-full h-full object-cover rounded-xl" />
-                  ) : (
-                    <div className="w-full h-full rounded-xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-cyan-500 flex items-center justify-center text-white font-black text-2xl">
-                      SJ
-                    </div>
-                  )}
+                  <img
+                    src={photoUrl}
+                    alt="Siddartha Jamandla"
+                    className="w-full h-full object-cover rounded-xl"
+                    onError={(e) => {
+                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                    }}
+                  />
                 </div>
 
                 <div className="space-y-1">

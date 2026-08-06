@@ -92,13 +92,14 @@ export const Navbar: React.FC<NavbarProps> = ({
           className="group flex items-center gap-3 focus:outline-none"
         >
           <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-cyan-500 p-[1px] shadow-lg shadow-blue-500/20 group-hover:shadow-blue-500/40 transition-all duration-300 overflow-hidden">
-            {photoUrl ? (
-              <img src={photoUrl} alt="Siddartha" className="w-full h-full object-cover rounded-[11px]" />
-            ) : (
-              <div className="w-full h-full bg-[#0b0f19] rounded-[11px] flex items-center justify-center text-blue-400 font-bold text-base group-hover:scale-105 transition-transform">
-                SJ
-              </div>
-            )}
+            <img
+              src={photoUrl}
+              alt="Siddartha Jamandla"
+              className="w-full h-full object-cover rounded-[11px]"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+              }}
+            />
           </div>
           <div className="leading-tight">
             <span className="text-base font-bold text-white group-hover:text-blue-400 transition-colors block">
