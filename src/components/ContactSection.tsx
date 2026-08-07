@@ -4,7 +4,7 @@ import confetti from 'canvas-confetti';
 import { ContactMailbox3D } from './3d/ContactMailbox3D';
 import { TiltGlassCard } from './3d/TiltGlassCard';
 import { personalInfo } from '../data/portfolioData';
-import { useProfilePhoto } from '../utils/profilePhotoManager';
+import { useProfilePhoto, DEFAULT_PROFILE_PHOTO } from '../utils/profilePhotoManager';
 import { saveMessage } from '../utils/contactMessagesManager';
 import { playClickSound, playSuccessSound } from '../utils/soundEffects';
 
@@ -102,7 +102,14 @@ export const ContactSection: React.FC = () => {
               <div className="flex items-center justify-center sm:justify-start gap-3.5 pt-2 border-t border-slate-800/80">
                 <div className="w-12 h-12 rounded-xl bg-slate-900 border border-blue-500/30 p-0.5 overflow-hidden shrink-0 shadow-lg">
                   {photoUrl ? (
-                    <img src={photoUrl} alt="Siddartha" className="w-full h-full object-cover rounded-lg" />
+                    <img
+                      src={photoUrl}
+                      alt="Siddartha"
+                      className="w-full h-full object-cover rounded-lg"
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).src = DEFAULT_PROFILE_PHOTO;
+                      }}
+                    />
                   ) : (
                     <div className="w-full h-full rounded-lg bg-gradient-to-tr from-blue-600 to-indigo-600 flex items-center justify-center text-white font-black text-sm">
                       SJ

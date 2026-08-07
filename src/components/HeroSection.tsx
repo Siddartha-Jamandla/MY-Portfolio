@@ -3,7 +3,7 @@ import { Sparkles, MapPin, ArrowRight, Download, Terminal, ChevronDown, FileText
 import { HeroCore3D } from './3d/HeroCore3D';
 import { personalInfo } from '../data/portfolioData';
 import { IllusionMode } from '../types';
-import { useProfilePhoto } from '../utils/profilePhotoManager';
+import { useProfilePhoto, DEFAULT_PROFILE_PHOTO } from '../utils/profilePhotoManager';
 import { playClickSound } from '../utils/soundEffects';
 
 interface HeroSectionProps {
@@ -59,7 +59,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                     alt="Siddartha Jamandla"
                     className="w-full h-full object-cover rounded-xl"
                     onError={(e) => {
-                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                      (e.target as HTMLImageElement).src = DEFAULT_PROFILE_PHOTO;
                     }}
                   />
                 </div>

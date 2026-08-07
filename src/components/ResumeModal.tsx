@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { X, Download, Printer, Copy, Check, Sparkles, GraduationCap, Briefcase, Award, Code2, Phone, Mail, MapPin, Linkedin, ExternalLink } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
-import { useProfilePhoto } from '../utils/profilePhotoManager';
+import { useProfilePhoto, DEFAULT_PROFILE_PHOTO } from '../utils/profilePhotoManager';
 import { playClickSound } from '../utils/soundEffects';
 
 interface ResumeModalProps {
@@ -125,7 +125,7 @@ TECHNICAL SKILLS
                     alt={personalInfo.fullName}
                     className="w-full h-full object-cover rounded-xl"
                     onError={(e) => {
-                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                      (e.target as HTMLImageElement).src = DEFAULT_PROFILE_PHOTO;
                     }}
                   />
                 </div>

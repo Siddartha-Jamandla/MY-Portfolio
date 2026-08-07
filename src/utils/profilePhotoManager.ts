@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react';
-
 export const PROFILE_PHOTO_STORAGE_KEY = 'siddartha_profile_photo';
 
-// Default professional developer profile photo displayed for any visitor until customized
-export const DEFAULT_PROFILE_PHOTO = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+// Default profile photo URL provided by user
+export const DEFAULT_PROFILE_PHOTO = 'https://i.postimg.cc/Z5G0BnZL/Generated-Image-September-14-2025-8-37AM-090126.png';
 
 export function getStoredProfilePhoto(): string | null {
   try {

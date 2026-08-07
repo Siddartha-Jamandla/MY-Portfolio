@@ -2,7 +2,7 @@ import React from 'react';
 import { Camera, Sparkles, Bike, Video, GraduationCap, Target, Cpu, Award, User, CheckCircle2 } from 'lucide-react';
 import { TiltGlassCard } from './3d/TiltGlassCard';
 import { personalInfo } from '../data/portfolioData';
-import { useProfilePhoto } from '../utils/profilePhotoManager';
+import { useProfilePhoto, DEFAULT_PROFILE_PHOTO } from '../utils/profilePhotoManager';
 import { playClickSound, playHoverSound } from '../utils/soundEffects';
 
 export const AboutSection: React.FC = () => {
@@ -56,7 +56,7 @@ export const AboutSection: React.FC = () => {
                     alt={personalInfo.fullName}
                     className="w-full h-full object-cover rounded-xl transition-transform duration-500 group-hover:scale-105"
                     onError={(e) => {
-                      (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+                      (e.target as HTMLImageElement).src = DEFAULT_PROFILE_PHOTO;
                     }}
                   />
                   <div className="absolute top-3 right-3 w-3.5 h-3.5 bg-emerald-500 rounded-full border-2 border-slate-900 shadow-lg" title="Active AIML Student" />
