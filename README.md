@@ -1,38 +1,27 @@
 <!-- ========================================================= -->
-<!--                                                           -->
-<!--        GitHub Profile README - Siddartha Jamandla         -->
-<!--               AI | ML Engineer | B.Tech AIML              -->
+<!--                 GITHUB PROFILE README                     -->
+<!--                  Created for Siddartha Jamandla          -->
 <!-- ========================================================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Siddartha%20Jamandla&fontColor=FFFFFF&fontSize=52&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Building%20the%20Future%20with%20Code&descAlignY=62"/>
-
-</div>
 
 <div align="center">
 
 # 👋 Hello, I'm Siddartha Jamandla
 
-### 🤖 AI & Machine Learning Engineer | B.Tech AIML Student | Future AI Entrepreneur
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Python+Developer;Frontend+Developer;Open+Source+Learner;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&color=00C6FF&lines=Welcome+to+my+GitHub!;Building+AI+Products+for+Real+World+Problems.;Python+%7C+FastAPI+%7C+React+%7C+PyTorch.;Always+Learning.+Always+Building.;Dream+Big.+Build+Bigger."/>
+<br>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Siddartha%20Jamandla&fontSize=48&fontAlign=50&fontAlignY=38&fontColor=ffffff"/>
 
----
+<br>
 
-<div align="center">
+<a href="https://github.com/Siddartha-Jamandla">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=siddarthajamandla-sketch&style=for-the-badge&color=blue)
-
-![](https://img.shields.io/github/followers/siddarthajamandla-sketch?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/siddarthajamandla-sketch?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)
+<a href="https://siddartha-jamandla-portfolio.ai.studio">
+<img src="https://img.shields.io/badge/Portfolio-Live_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
@@ -40,458 +29,455 @@
 
 # 💫 About Me
 
-I'm **Siddartha Jamandla**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **Balaji Institute of Technology and Science, Narsampet**.
+Hi!
 
-I enjoy building intelligent applications that solve real-world problems using AI, Machine Learning, and modern web technologies. Every project I create is an opportunity to improve my technical skills, explore new ideas, and contribute to meaningful innovation.
+I'm **Siddartha Jamandla**, a passionate **B.Tech Artificial Intelligence & Machine Learning student** with a strong interest in software development, AI, Machine Learning, automation, and modern web technologies.
 
-I'm continuously learning, experimenting, and working toward becoming a professional AI Engineer who develops impactful products used by people around the world.
+I enjoy transforming ideas into practical applications while continuously improving my technical skills through hands-on projects and lifelong learning.
 
 ---
 
 # 🎯 Current Focus
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🚀 Generative AI
-- 🧩 AI Agents
-- 🌐 Full-Stack Development
-- ⚡ Automation
-- 📊 Data Science
+- Artificial Intelligence
+- Machine Learning
+- Python Development
+- React Development
+- FastAPI
+- Problem Solving
+- Open Source
+- GitHub Projects
+- Portfolio Development
 
 ---
 
-# 🎓 Education
+# 🌍 Live Portfolio
 
-### Bachelor of Technology (B.Tech)
+## 🔗 Portfolio Website
 
-**Artificial Intelligence & Machine Learning**
+### https://siddartha-jamandla-portfolio.ai.studio
 
-🏫 Balaji Institute of Technology and Science
+My portfolio showcases:
 
-📍 Narsampet, Telangana, India
+- Professional Profile
+- Technical Skills
+- Featured Projects
+- Development Journey
+- GitHub Repositories
+- Contact Information
 
-🎓 Expected Graduation: **2029**
+---
+
+# 👨‍💻 Developer Introduction
+
+```python
+class SiddarthaJamandla:
+
+    def __init__(self):
+        self.role = "AI & ML Student"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C",
+            "C++"
+        ]
+
+        self.frontend = [
+            "HTML5",
+            "CSS3",
+            "React",
+            "Tailwind CSS"
+        ]
+
+        self.backend = [
+            "FastAPI"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Automation",
+            "Web Development"
+        ]
+
+    def motto(self):
+        return "Learn • Build • Improve • Repeat"
+```
 
 ---
 
 # 🚀 Mission
 
-> Build intelligent software that simplifies people's lives through Artificial Intelligence while continuously learning and growing as an engineer.
+To become a professional Artificial Intelligence Engineer capable of building intelligent systems that solve real-world problems and create meaningful impact.
 
 ---
 
-# 🌍 Vision
+# 🌟 Vision
 
-To become an AI Engineer capable of building innovative products that positively impact millions of people around the world.
+I aim to combine Artificial Intelligence with software engineering to create innovative, scalable, and user-friendly applications that make technology more accessible and useful.
+
+---
+
+# 💡 Core Values
+
+- Continuous Learning
+- Consistency
+- Creativity
+- Problem Solving
+- Clean Code
+- Collaboration
+- Innovation
+- Professional Growth
 
 ---
 
-# 💡 Personal Philosophy
+# 📚 Learning Philosophy
 
-> **"Discipline builds skill. Skill creates opportunities. Opportunities shape the future."**
+Every project is an opportunity to:
+
+- Learn something new.
+- Improve coding skills.
+- Explore modern technologies.
+- Build practical solutions.
+- Share knowledge with others.
 
 ---
+
+# 🔥 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Computer Vision
+- Natural Language Processing
+- Backend Development
+- Frontend Development
+- API Development
+- Automation
+- Cloud Computing
+- Open Source
+
+---
+
+# 📈 What I'm Doing
+
+✔ Learning AI & Machine Learning
+
+✔ Building Python Projects
+
+✔ Exploring React
+
+✔ Developing APIs using FastAPI
+
+✔ Improving GitHub Profile
+
+✔ Creating Professional Portfolio
+
+✔ Solving Programming Challenges
+
+✔ Learning Software Engineering Principles
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Siddartha-Jamandla">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://siddartha-jamandla-portfolio.ai.studio">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+# 🎯 Goals for 2026
+
+- Build impactful AI projects.
+- Master Python development.
+- Strengthen Machine Learning knowledge.
+- Contribute to Open Source.
+- Maintain a professional GitHub profile.
+- Expand my project portfolio.
+- Continuously improve problem-solving skills.
+
+---
+
+<div align="center">
+
+</div>
 
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=javascript" />
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
 
 ## 🌐 Frontend Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=tailwind" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=vite" />
 </p>
+
+### Frontend Skills
+
+- Responsive Web Design
+- Modern UI Development
+- Single Page Applications (SPA)
+- Component-Based Architecture
+- Mobile-First Design
+- Cross-Browser Compatibility
 
 ---
 
 ## ⚙️ Backend Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
+
+### Backend Skills
+
+- REST API Development
+- API Integration
+- Authentication Basics
+- JSON Data Handling
+- CRUD Operations
+- Backend Architecture Fundamentals
 
 ---
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch" />
+### Learning Areas
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Data Preprocessing
+- Feature Engineering
+- Computer Vision
+- Natural Language Processing
+- Model Evaluation
 
+---
+
+## 📊 Data Science
+
+### Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- PyTorch
+
+### Skills
+
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+- Model Training
+- Model Testing
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</p>
+
+### Database Concepts
+
+- SQL Queries
+- Database Design
+- CRUD Operations
+- Relationships
+- Data Storage
+
+---
+
+## 🧰 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
 
-## 🗄️ Database
+## ☁️ Deployment & Hosting
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=supabase" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
+- GitHub Pages
+- Vercel
+- Netlify
+- AI Studio
 
 ---
 
-## ☁️ Deployment & Cloud
+## 💻 Operating Systems
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=vercel" />
-
-<img src="https://skillicons.dev/icons?i=netlify" />
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-</p>
-
----
-
-## 🛠️ Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Agents
-- LangChain
-- PyTorch
+- Advanced Python
+- Data Structures & Algorithms
+- React Ecosystem
 - FastAPI
-- Model Deployment
-- GitHub Actions
+- Machine Learning Algorithms
+- Deep Learning Fundamentals
+- GitHub Workflows
+- Cloud Computing Basics
 
 ---
 
-# 🌱 What Makes Me Different?
+# 🎯 Technical Interests
 
-✔ Passionate about solving real-world problems.
-
-✔ Learn by building practical projects.
-
-✔ Continuously improving my AI & development skills.
-
-✔ Curious about emerging technologies.
-
-✔ Focused on creating scalable and useful applications.
-
----
-
-# ⚡ Fun Fact
-
-> **I don't just write code—I build ideas into reality through Artificial Intelligence.**
-
----
-
-<div align="center">
-
-## 🚀 "The future belongs to those who build it."
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-## 💼 Building Real-World Solutions with AI & Modern Web Technologies
-
-*"Every project is an opportunity to learn, innovate, and create impact."*
-
-</div>
-
----
-
-# 🤖 Career Plus – AI Resume Analyzer
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
-
-![AI Powered](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge)
-
-![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
-
-</div>
-
-## 📌 Overview
-
-Career Plus is an AI-powered Resume Analyzer designed to help students and professionals evaluate and improve their resumes. The platform analyzes uploaded resumes, highlights strengths, identifies missing skills, and provides actionable suggestions to improve ATS compatibility.
-
-### ✨ Key Features
-
-- 📄 Resume Upload & Analysis
-- 🤖 AI-Powered Feedback
-- 📊 ATS Score Evaluation
-- 🎯 Skill Gap Detection
-- 📈 Resume Quality Insights
-- 💡 Personalized Improvement Suggestions
-- ⚡ Fast & Responsive Interface
-
-### 🛠 Technologies Used
-
-- Python
-- FastAPI
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### 🌐 Live Demo
-
-https://ai-resume-analyzer-5529.ai.studio
-
----
-
-# 🚌 Reliable Bus Travels
-
-<div align="center">
-
-![Frontend](https://img.shields.io/badge/Frontend-Project-success?style=for-the-badge)
-
-![Responsive](https://img.shields.io/badge/Responsive-Website-blue?style=for-the-badge)
-
-</div>
-
-## 📌 Overview
-
-Reliable Bus Travels is a responsive web application that allows users to explore bus routes, check schedules, view available seats, and simulate the ticket booking experience with a clean and user-friendly interface.
-
-### ✨ Features
-
-- Home Page
-- Route Search
-- Bus Information
-- Seat Selection UI
-- Booking Simulation
-- Responsive Layout
-- Modern User Interface
-
-### 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-# 🚀 Future Projects
-
-These are projects I plan to build as I continue my AI journey.
-
-### 🧠 AI Study Teacher
-
-An AI-powered educational platform capable of generating:
-
-- Animated explanation videos
-- Interactive lessons
-- Flowcharts
-- Diagrams
-- MCQs
-- Personalized study plans
-
----
-
-### 🎙 AI Video Dubbing Platform
-
-An AI system capable of translating videos into multiple languages while preserving the speaker's original voice, tone, and emotions.
-
----
-
-### 🤖 AI Agent Platform
-
-A collection of intelligent AI Agents that automate repetitive tasks for students, developers, and businesses.
-
----
-
-# 📜 Certification
-
-## Web Designing & Development
-
-🏆 **CADD Centre, Warangal**
-
-Skills Covered:
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI Fundamentals
-- Website Structure
-- Modern Development Practices
-
----
-
-# 📖 Learning Journey
-
-My learning philosophy is simple:
-
-> **Learn → Build → Improve → Repeat**
-
-I enjoy learning by building real-world projects rather than only studying theory.
-
----
-
-# 🌱 Currently Learning
-
-## Artificial Intelligence
-
+- Artificial Intelligence
 - Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- Prompt Engineering
-- AI Agents
-
----
-
-## Development
-
-- FastAPI
-- React
-- Modern JavaScript
+- Full-Stack Development
+- Backend Engineering
+- Data Science
+- Automation
+- Open Source Software
 - API Development
-- Docker
-- GitHub Actions
 
 ---
 
-# 🎯 2029 Career Vision
+# 📈 Skill Progress
 
-By the time I graduate, I aim to:
-
-- ✅ Build 20+ quality AI projects
-- ✅ Master Python for AI
-- ✅ Become proficient in Machine Learning
-- ✅ Gain practical experience through internships
-- ✅ Contribute to Open Source
-- ✅ Build production-ready AI applications
-- ✅ Launch my own AI startup
-
----
-
-# 💡 What Drives Me
-
-I believe technology becomes meaningful when it solves real-world problems.
-
-That's why my focus isn't just on writing code—it's on building useful, practical, and intelligent solutions that can make a positive difference.
+| Technology | Progress |
+|------------|----------|
+| Python | ████████████░░░░ 75% |
+| Java | ████████░░░░░░░░ 50% |
+| JavaScript | █████████░░░░░░░ 60% |
+| React | ███████░░░░░░░░░ 45% |
+| FastAPI | ███████░░░░░░░░░ 45% |
+| Machine Learning | ██████░░░░░░░░░░ 40% |
+| HTML & CSS | █████████████░░░ 80% |
+| Git & GitHub | ███████████░░░░░ 70% |
 
 ---
 
-# 🚀 Professional Values
+# 🔄 Development Workflow
 
-- Innovation
-- Consistency
-- Discipline
-- Continuous Learning
-- Teamwork
-- Problem Solving
-- Creativity
-- Curiosity
-
----
-
-# 📈 Current Focus Areas
-
-🎯 Artificial Intelligence
-
-🎯 Machine Learning
-
-🎯 Generative AI
-
-🎯 Full-Stack Development
-
-🎯 Automation
-
-🎯 AI Agents
-
-🎯 Open Source
+```text
+Idea
+  │
+  ▼
+Research
+  │
+  ▼
+Planning
+  │
+  ▼
+Design
+  │
+  ▼
+Development
+  │
+  ▼
+Testing
+  │
+  ▼
+Deployment
+  │
+  ▼
+Maintenance
+```
 
 ---
 
-# 💬 Quote I Live By
+# 💡 Development Principles
 
-> **"Success is built through consistency, not shortcuts. Every project is another step toward excellence."**
+- Write clean and readable code.
+- Learn by building real projects.
+- Keep improving with every commit.
+- Focus on quality before quantity.
+- Document projects clearly.
+- Embrace collaboration and feedback.
+- Stay curious and keep learning.
+
+---
+
+# 🎯 Long-Term Vision
+
+My goal is to become a skilled AI Engineer capable of building intelligent, scalable, and impactful software solutions while contributing to the open-source community and continuously expanding my technical expertise.
 
 ---
 
 <div align="center">
 
-## 🚀 "Build Today. Improve Tomorrow. Inspire Forever."
-
 </div>
-
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-## 💻 GitHub Statistics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Siddartha-Jamandla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=siddarthajamandla-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthajamandla-sketch&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddartha-Jamandla&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🔥 GitHub Streak
+
 <div align="center">
 
-## 🌍 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthajamandla-sketch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddartha-Jamandla&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 📈 Contribution Activity
 
-## 📈 Contribution Graph
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddartha-Jamandla&theme=tokyo-night&hide_border=true"/>
 
@@ -499,417 +485,35 @@ That's why my focus isn't just on writing code—it's on building useful, practi
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddarthajamandla-sketch&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddartha-Jamandla&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🚀 Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-📚 Research
-   │
-   ▼
-📝 Planning
-   │
-   ▼
-💻 Development
-   │
-   ▼
-🧪 Testing
-   │
-   ▼
-🚀 Deployment
-   │
-   ▼
-📈 Continuous Improvement
-```
-
----
-
-# 🧠 AI Engineer Mindset
-
-```text
-✔ Learn Every Day
-
-✔ Build Every Week
-
-✔ Stay Curious
-
-✔ Write Clean Code
-
-✔ Never Stop Improving
-
-✔ Share Knowledge
-
-✔ Solve Real Problems
-
-✔ Think Long-Term
-```
-
----
-
-# 🗺️ Career Roadmap
-
-## 🌱 Phase 1 — Foundation
-
-- Master Python
-- Improve Data Structures & Algorithms
-- Build Strong GitHub Portfolio
-- Learn Software Engineering Fundamentals
-
----
-
-## 🚀 Phase 2 — AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Model Evaluation
-
----
-
-## 🤖 Phase 3 — Generative AI
-
-- Prompt Engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- Vector Databases
-
----
-
-## ☁️ Phase 4 — Production AI
-
-- Docker
-- CI/CD
-- Cloud Deployment
-- FastAPI
-- Model Serving
-- MLOps
-
----
-
-## 🎯 Final Goal
-
-Become a professional AI/ML Engineer capable of designing, developing, and deploying intelligent systems that create real-world impact.
-
----
-
-# 💼 Professional Strengths
-
-### Problem Solving
-
-I enjoy breaking down complex problems into smaller, manageable solutions.
-
----
-
-### Continuous Learning
-
-Technology evolves every day, and I believe learning should never stop.
-
----
-
-### Building Projects
-
-The best way to learn is by building real applications.
-
----
-
-### Adaptability
-
-I'm always ready to explore new tools, frameworks, and technologies.
-
----
-
-# 💡 Current Interests
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-🚀 Generative AI
-
-🌐 Full-Stack Development
-
-⚡ Automation
-
-☁️ Cloud Computing
-
-📱 Software Engineering
-
----
-
-# 📚 Books & Resources
-
-Currently exploring topics from:
-
-- Clean Code
-- Deep Learning with Python
-- Hands-On Machine Learning
-- FastAPI Documentation
-- PyTorch Documentation
-- Hugging Face Documentation
-- OpenAI API Documentation
-
----
-
-# 🎯 Open Source Goals
-
-- Make meaningful contributions to open-source projects.
-- Learn from experienced developers.
-- Share useful tools with the community.
-- Build projects that others can learn from.
-
----
-
-# 🤝 Looking to Collaborate On
-
-- AI Applications
-- Machine Learning Projects
-- FastAPI Backends
-- React Frontends
-- Open Source Projects
-- Educational Technology
-
----
-
-# 💭 My Development Philosophy
-
-> **"Great software is built through patience, discipline, continuous learning, and attention to detail."**
-
----
-
-# 🌟 Daily Routine
-
-```text
-📚 Learn
-
-☕ Think
-
-💻 Build
-
-🧪 Experiment
-
-📖 Read
-
-🚀 Improve
-
-🔁 Repeat
-```
-
----
-
-# 📬 Contact Me
-
-📧 **Email**
-
-**siddarthajamandla@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/siddartha-jamandla-97350b384
-
-📷 **Instagram**
-
-@ya.its_me_21
-
-🐙 **GitHub**
-
-https://github.com/siddarthajamandla-sketch
-
----
+# 👀 Profile Visitor Counter
 
 <div align="center">
 
-## ⭐ "The best way to predict the future is to build it."
+<img src="https://komarev.com/ghpvc/?username=Siddartha-Jamandla&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# ⭐ GitHub Summary
 
 <div align="center">
 
-## 💬 I'm Always Open to Meaningful Conversations
+<img src="https://img.shields.io/github/followers/Siddartha-Jamandla?style=for-the-badge&logo=github"/>
 
-Whether you want to discuss AI, collaborate on a project, or simply connect with a fellow developer, feel free to reach out!
+<img src="https://img.shields.io/github/stars/Siddartha-Jamandla?style=for-the-badge"/>
 
-<p align="center">
-
-<a href="mailto:siddarthajamandla@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/siddartha-jamandla-97350b384">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/siddarthajamandla-sketch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/ya.its_me_21">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
-</div>
-
----
-
-# 🚀 Open To
-
-- 🤖 AI / Machine Learning Projects
-- 🌐 Full-Stack Development
-- 🚀 Open Source Contributions
-- 💼 Internship Opportunities
-- 💡 Startup Collaborations
-- 🎤 Technical Communities
-
----
-
-# 📌 My 2029 Vision
-
-```text
-Graduate as a Skilled AI Engineer
-              │
-              ▼
-Gain Industry Experience
-              │
-              ▼
-Build AI Products Used by Thousands
-              │
-              ▼
-Contribute to Open Source
-              │
-              ▼
-Launch an AI Startup
-              │
-              ▼
-Build Technology That Creates Real Impact
-```
-
----
-
-# 🧩 Developer Principles
-
-✔ Keep Learning
-
-✔ Build Consistently
-
-✔ Focus on Quality
-
-✔ Stay Curious
-
-✔ Help Others
-
-✔ Never Give Up
-
-✔ Think Before You Code
-
-✔ Write Maintainable Software
-
----
-
-# 🌟 Favorite Quote
-
-> **"Don't compare yourself with others. Compare yourself with the person you were yesterday."**
-
----
-
-# 💭 AI Engineer's Mindset
-
-> **Every bug teaches something.**
-
-> **Every project builds experience.**
-
-> **Every challenge develops confidence.**
-
-> **Every day is another opportunity to improve.**
-
----
-
-# 📈 Current Focus
-
-```text
-Artificial Intelligence
-        ████████████████
-
-Machine Learning
-        ████████████████
-
-FastAPI
-        ████████████
-
-React
-        ███████████
-
-Python
-        ████████████████
-
-Problem Solving
-        ████████████████
-```
-
----
-
-# 🌍 Beyond Coding
-
-Outside programming, I enjoy:
-
-- 📚 Learning emerging technologies
-- 🎥 Watching AI and technology content
-- 🧠 Exploring innovative startup ideas
-- 🤝 Collaborating with like-minded developers
-- 🚀 Turning ideas into real-world products
-
----
-
-# 💙 Thank You
-
-Thank you for visiting my GitHub profile.
-
-Every repository represents a step in my learning journey, and I'm excited to continue growing as an AI & Machine Learning Engineer.
-
-If you like my work:
-
-⭐ Star my repositories
-
-🍴 Fork projects
-
-🤝 Connect with me
-
-💬 Share feedback
-
----
-
-<div align="center">
-
-## 💙 "Learn Continuously. Build Fearlessly. Create Impact."
-
-</div>
-
----
-
-# 📊 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=siddarthajamandla-sketch&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/last-commit/Siddartha-Jamandla/Siddartha-Jamandla?style=for-the-badge"/>
 
 </div>
 
@@ -917,28 +521,613 @@ If you like my work:
 
 # 🐍 Contribution Snake
 
-> **Enable this after creating your profile repository using GitHub Actions.**
+<div align="center">
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-<img src="https://raw.githubusercontent.com/siddarthajamandla-sketch/siddarthajamandla-sketch/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
 
-</p>
+---
+
+# 📅 Weekly Development Goals
+
+- ✅ Learn a new programming concept
+- ✅ Push code to GitHub
+- ✅ Improve an existing project
+- ✅ Solve coding challenges
+- ✅ Explore AI & ML topics
+- ✅ Read technical documentation
+- ✅ Practice clean coding
+- ✅ Update project documentation
+
+---
+
+# 📌 Repository Checklist
+
+Every repository should include:
+
+- Professional README
+- Installation Guide
+- Features
+- Tech Stack
+- Screenshots
+- Project Structure
+- Usage Instructions
+- License
+- Future Improvements
+- Contribution Guide
+
+---
+
+# 🎯 GitHub Goals
+
+### 2026
+
+- Build professional AI projects
+- Publish high-quality repositories
+- Improve coding consistency
+- Contribute to open source
+- Learn advanced Machine Learning
+- Build production-ready APIs
+- Strengthen problem-solving skills
+
+---
+
+# 📈 Coding Journey
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Test
+  ↓
+Deploy
+  ↓
+Improve
+  ↓
+Repeat
+```
+
+---
+
+# 💻 Daily Routine
+
+🌅 Morning
+- Study AI/ML concepts
+- Review documentation
+
+☀️ Afternoon
+- Build projects
+- Practice coding
+
+🌙 Evening
+- Push commits
+- Refactor code
+- Learn something new
+
+---
+
+# 🌟 Developer Principles
+
+✔ Write maintainable code
+
+✔ Keep learning
+
+✔ Build practical projects
+
+✔ Document everything
+
+✔ Share knowledge
+
+✔ Stay consistent
+
+✔ Embrace challenges
+
+✔ Never stop improving
+
+---
+
+# 📚 Current Learning Roadmap
+
+- Python Advanced Programming
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- FastAPI
+- React
+- REST APIs
+- SQL
+- GitHub Actions
+- Cloud Fundamentals
+
+---
+
+# 🏅 Milestones
+
+🎯 Complete AI & ML projects
+
+🎯 Build full-stack applications
+
+🎯 Contribute to open source
+
+🎯 Grow GitHub profile
+
+🎯 Strengthen software engineering skills
+
+🎯 Create impactful solutions
 
 ---
 
 <div align="center">
 
-## ⚡ Thanks for Stopping By!
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&color=00C6FF&lines=Thank+You+for+Visiting!;Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!+🚀"/>
+# 🚀 Featured Projects
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+## 🌟 Personal Portfolio Website
+
+### 🔗 Live Demo
+
+**https://siddartha-jamandla-portfolio.ai.studio**
+
+### Overview
+
+A modern personal portfolio designed to showcase my technical skills, projects, learning journey, and achievements with a clean and responsive interface.
+
+### Features
+
+- Responsive Design
+- Modern UI
+- Project Showcase
+- Skills Section
+- About Me
+- Contact Section
+- Mobile Friendly
+- Fast Loading
+
+### Technologies Used
+
+- React
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+
+---
+
+## 🤖 Career Plus – AI Resume Analyzer
+
+### Description
+
+An AI-powered resume analysis platform that helps users evaluate resumes, identify strengths, highlight weaknesses, and improve ATS compatibility.
+
+### Features
+
+- Resume Analysis
+- AI Suggestions
+- ATS-Friendly Feedback
+- Resume Score
+- Improvement Tips
+- User-Friendly Interface
+
+### Tech Stack
+
+- React
+- JavaScript
+- HTML
+- CSS
+- AI APIs
+
+---
+
+## 🚌 Reliable Bus Travels
+
+### Description
+
+A responsive frontend web application for bus ticket booking and travel management.
+
+### Features
+
+- Route Search
+- Seat Selection
+- Booking Interface
+- Responsive Layout
+- Modern User Interface
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📂 More Projects Coming Soon
+
+Future repositories will include:
+
+- AI Chatbots
+- Machine Learning Projects
+- Deep Learning Applications
+- Computer Vision Projects
+- NLP Applications
+- Automation Tools
+- FastAPI REST APIs
+- Full Stack Web Applications
+- Data Science Projects
+- Open Source Contributions
+
+---
+
+# 🎓 Education
+
+## Bachelor of Technology (B.Tech)
+
+**Branch**
+
+Artificial Intelligence & Machine Learning (AI & ML)
+
+### Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Engineering
+- Python Programming
+- Web Technologies
+
+---
+
+# 📖 Current Learning
+
+I am continuously improving my skills in:
+
+- Python
+- React
+- FastAPI
+- Machine Learning
+- Deep Learning
+- Git & GitHub
+- Data Structures
+- Algorithms
+- SQL
+- Cloud Basics
+
+---
+
+# 🏆 Achievements
+
+- Built multiple web development projects
+- Created a professional portfolio website
+- Actively improving GitHub profile
+- Learning AI and Machine Learning
+- Exploring modern software development
+- Building practical applications
+
+---
+
+# 🎯 Career Objective
+
+To become an AI Engineer capable of building intelligent software solutions that solve real-world challenges and create meaningful impact through innovation and technology.
+
+---
+
+# 💡 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Computer Vision
+- Natural Language Processing
+- Backend Development
+- Frontend Development
+- Automation
+- Cloud Computing
+- Open Source
+
+---
+
+# 📚 Learning Roadmap
+
+## Phase 1
+
+- Master Python
+- Improve Git
+- Learn React
+
+## Phase 2
+
+- FastAPI
+- SQL
+- APIs
+- Authentication
+
+## Phase 3
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+## Phase 4
+
+- Cloud Deployment
+- Docker
+- CI/CD
+- System Design
+
+---
+
+# 🌍 Open Source Goals
+
+I plan to:
+
+- Contribute to open-source projects
+- Share useful repositories
+- Improve documentation
+- Build beginner-friendly projects
+- Collaborate with developers worldwide
+
+---
+
+# 🤝 Collaboration
+
+I'm interested in collaborating on:
+
+- AI Projects
+- Machine Learning Applications
+- React Projects
+- Python Automation
+- Open Source Initiatives
+- FastAPI Applications
+
+---
+
+# 💬 Favorite Quote
+
+> "Small improvements every day lead to remarkable results."
+
+---
+
+# 📈 Future Goals
+
+- Become a skilled AI Engineer
+- Build production-ready AI applications
+- Contribute consistently to GitHub
+- Publish open-source tools
+- Learn advanced software engineering
+- Develop impactful products
+
+---
+
+I believe that learning, consistency, and curiosity are the keys to becoming a better developer every day.
+
+Let's build something amazing together! 🚀
+
+---
+
+<div align="center">
 
 </div>
 
-<!-- ========================================================= -->
-<!--                 END OF GITHUB PROFILE README              -->
-<!-- ========================================================= -->
+# 🗺️ Learning Roadmap
+
+## 🚀 Phase 1 — Strong Foundation
+
+- ✅ Python Programming
+- ✅ Git & GitHub
+- ✅ HTML5
+- ✅ CSS3
+- ✅ JavaScript
+- ✅ SQL
+- ✅ Problem Solving
+
+---
+
+## 🚀 Phase 2 — Full Stack Development
+
+- React
+- Tailwind CSS
+- FastAPI
+- REST APIs
+- Authentication
+- Database Design
+- Deployment
+
+---
+
+## 🚀 Phase 3 — Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Data Science
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Large Language Models (LLMs)
+
+---
+
+## 🚀 Phase 4 — Advanced Engineering
+
+- Cloud Computing
+- Docker
+- Kubernetes
+- CI/CD
+- Microservices
+- System Design
+- Scalable AI Applications
+
+---
+
+# 🎯 Career Goals
+
+## Short-Term Goals
+
+- Build real-world AI projects
+- Master Python
+- Improve problem-solving
+- Grow my GitHub profile
+- Create high-quality open-source repositories
+
+---
+
+## Long-Term Goals
+
+- Become an AI Engineer
+- Work on impactful AI products
+- Contribute to open source
+- Build scalable software solutions
+- Keep learning emerging technologies
+
+---
+
+# 🌍 Open Source
+
+I believe open source is one of the best ways to learn, collaborate, and contribute to the developer community.
+
+My goals include:
+
+- Creating useful repositories
+- Improving documentation
+- Sharing learning resources
+- Building beginner-friendly projects
+- Contributing to AI and web development projects
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- Artificial Intelligence
+- Machine Learning
+- Python Projects
+- React Applications
+- FastAPI APIs
+- Open Source Projects
+- Educational Tools
+- Automation Projects
+
+---
+
+# 📚 Favorite Technologies
+
+- Python
+- JavaScript
+- React
+- FastAPI
+- HTML5
+- CSS3
+- Tailwind CSS
+- Git
+- GitHub
+- SQL
+
+---
+
+# 📖 Developer Principles
+
+✔ Keep learning
+
+✔ Build consistently
+
+✔ Write clean code
+
+✔ Share knowledge
+
+✔ Never stop improving
+
+✔ Stay curious
+
+✔ Focus on quality
+
+✔ Solve real problems
+---
+# 📈 Daily Routine
+
+Morning ☀️
+
+- Learn
+- Read Documentation
+- Practice Coding
+
+Afternoon 💻
+
+- Build Projects
+- Debug
+- Explore New Tools
+
+Evening 🌙
+
+- Push Commits
+- Improve Existing Projects
+- Plan Next Goals
+---
+# 💬 Developer Quote
+
+> "Code with purpose, learn with curiosity, and grow with consistency."
+---
+# 📬 Contact
+
+### GitHub
+
+https://github.com/Siddartha-Jamandla
+
+### Portfolio
+
+https://siddartha-jamandla-portfolio.ai.studio
+---
+# ❤️ Support
+
+If you enjoy my work:
+
+⭐ Star my repositories
+
+🍴 Fork useful projects
+
+🤝 Collaborate
+
+💡 Share feedback
+
+🚀 Follow my GitHub journey
+---
+# 📊 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Siddartha-Jamandla&style=for-the-badge"/>
+
+</p>
+---
+# 🌟 Thanks for Visiting!
+
+Thank you for taking the time to explore my GitHub profile.
+
+I'm passionate about Artificial Intelligence, Machine Learning, and Software Development, and I'm continuously learning, building, and improving.
+
+I hope my projects and journey inspire others to keep learning and creating.
+
+Let's connect, collaborate, and build amazing technology together!
+---
+<div align="center">
+
+## ⭐ If you like my work, consider following my GitHub profile!
+
+### 🔗 GitHub
+
+https://github.com/Siddartha-Jamandla
+
+### 🌐 Portfolio
+
+https://siddartha-jamandla-portfolio.ai.studio
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</div>
+<!-- ================================== -->
+<!--                  END OF README                            -->
+<!--================================== -->
