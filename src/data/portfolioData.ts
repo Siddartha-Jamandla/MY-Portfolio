@@ -108,7 +108,7 @@ export const projectsData: Project[] = [
     longDescription: "Career Plus leverages automated ATS feedback algorithms and NLP models to break down resumes section-by-section. It measures keyword matching against target job descriptions, highlights formatting issues, and generates tailored resume recommendations.",
     category: "AI / Machine Learning",
     technologies: ["Python", "FastAPI", "React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-    liveDemoUrl: "https://full-stack-portfolio-vuwy.bolt.host",
+    liveDemoUrl: "https://ai-resume-analyzer-5529.ai.studio",
     githubUrl: "https://github.com/Siddartha-Jamandla",
     features: [
       "Automated ATS Score Evaluation & Skill Gap Detection",
