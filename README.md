@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/Portfolio-Live_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<a href="https://siddartha-jamandla.github.io/MY-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -56,6 +60,8 @@ I enjoy transforming ideas into practical applications while continuously improv
 ## 🔗 Portfolio Website
 
 ### https://siddartha-jamandla-portfolio.ai.studio
+
+### Live on GitHub Pages (swarm portfolio): https://siddartha-jamandla.github.io/MY-Portfolio/
 
 My portfolio showcases:
 
